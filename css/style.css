@@ -1,0 +1,26 @@
+@import url(./fonts.css);
+
+
+
+.par p{
+    margin: 0 auto;
+    padding: 0 22% 0;
+}
+
+
+ul.icons{
+    list-style: none;
+    display: flex;
+    max-width: 12rem;
+    margin: 0 auto;
+  }
+  ul.icons li{
+    margin: 0 auto;
+  }
+  footer .icons{
+    font-size: 1.75rem;
+  }
+  
+  ul.icons li i.icon1:hover{
+    color: cyan;
+  }
