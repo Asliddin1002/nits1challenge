@@ -1,6 +1,8 @@
 @import url(./fonts.css);
 
-
+.nom{
+    margin-top: 15%;
+}
 
 .par p{
     margin: 0 auto;
